@@ -4,37 +4,37 @@
        "id":1,
        "name":"HTML",
        "description":"Learn HTML with Mubarak.",
-       "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-mini.jpg"
+       "image":"https://www.w3docs.com/uploads/media/default/0001/05/805cddb75d8fdc035886bc8d78487eef8b3845bb.png"
     },
     {
        "id":2,
        "name":"CSS",
        "description":"Learn HTML with Mubarak.",
-       "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro.jpg"
+       "image":"https://colorlib.com/cdn-cgi/image/width=1400,height=802,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/sites/2/creative-css3-tutorials.jpg"
     },
     {
         "id":3,
        "name":"Bootstrup",
        "description":"Learn Bootstrup with Mubarak.",
-       "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro-max.jpg"
+       "image":"https://www.tutorialrepublic.com/lib/images/bootstrap-5.0-illustration.png"
     },
     {
         "id":4,
        "name":"Tailwind",
        "description":"Learn Tailwind with Mubarak.",
-       "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13.jpg"
+       "image":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
     },
     {
         "id":5,
        "name":"JavaScript",
        "description":"Learn JavaScript with Mubarak.",
-       "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-pro-max-.jpg"
+       "image":"https://www.tutorialrepublic.com/lib/images/javascript-illustration.png"
     },
     {
         "id":6,
        "name":"React",
        "description":"Learn React with Mubarak.",
-       "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-pro--.jpg"
+       "image":"https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687822/retina_800x320_cover-react-context-api-4929b3703a1a7082d99b53eb1bbfc31f.png"
     }
 
  ]
